@@ -18,7 +18,7 @@ The project follows the principles of Hexagonal Architecture, which separates th
 
 ## Project Structure Overview
 
-![Texto alternativo de la imagen](src/assets/)
+![structure-Architecture](src/assets/estructure.png)
 
 
 ## Technologies Used
